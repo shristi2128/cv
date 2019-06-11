@@ -1,0 +1,19 @@
+body{
+  background-color: #f2e9d0;
+  font-family: Times New Roman;
+}
+hr{
+  width: 5%;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+}
+h1
+{
+  color: #bb5a5a;
+}
+h3
+{
+  color: #bb5a5a;
+}
